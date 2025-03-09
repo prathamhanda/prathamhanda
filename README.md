@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/prathamboii" target="blank"><img src="https://img.shields.io/twitter/follow/prathamboii?logo=twitter&style=for-the-badge" alt="prathamboii" /></a> </p>
 
-- 🔭 I’m currently working on [CampusCompass](https://github.com/prathamhanda/campuscompass)
+- 🔭 I’m currently working on [CampusCompass](https://github.com/prathamhanda/campuscompass) and [RoomsonRent](https://github.com/prathamhanda/roomsonrent)
 
 - 🌱 I’m currently learning **React**
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **prathamhanda10@gmail.com**
 
-- ⚡ Fun fact **I'm a Melomaniac. In fact, I consider Spotify as my girlfriend.**
+- ⚡ Fun fact **I'm a Melomaniac..**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
