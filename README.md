@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/prathamboii" target="blank"><img src="https://img.shields.io/twitter/follow/prathamboii?logo=twitter&style=for-the-badge" alt="prathamboii" /></a> </p>
 
-- 🔭 I’m currently working on [CampusCompass](https://github.com/prathamhanda/campuscompass) and [RoomsonRent](https://github.com/prathamhanda/roomsonrent)
+- 🔭 I’m currently working on [RoomsonRent](https://github.com/prathamhanda/roomsonrent) and [BreastCancer_Prediction](https://github.com/prathamhanda/BreastCancer-Predictor)
 
 - 🌱 I’m currently learning **React**
 
