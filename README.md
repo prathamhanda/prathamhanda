@@ -1,39 +1,77 @@
-<h1 align="center">Hi 👋, I'm Pratham Handa</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h1 align="center">Hi, I'm Pratham Handa 👋</h1>
+<h3 align="center">A curious builder blending code, creativity, and caffeine ☕</h3>
 
+---
 
+### 🌐 Connect With Me
 
-<p align="left"> <img  align="left" src="https://komarev.com/ghpvc/?username=prathamhanda&label=Profile%20views&color=0e75b6&style=flat" alt="prathamhanda" /> </p>
+<h3 align="center">🌐 Connect With Me</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><imgsrc="https://github-profile-trophy.vercel.app/?username=prathamhanda" alt="prathamhanda" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/prathamboii" target="blank"><img src="https://img.shields.io/twitter/follow/prathamboii?logo=twitter&style=for-the-badge" alt="prathamboii" /></a> </p>
-
-- 🔭 I’m currently working on [RoomsonRent](https://github.com/prathamhanda/roomsonrent) and [BreastCancer_Prediction](https://github.com/prathamhanda/BreastCancer-Predictor)
-
-- 🌱 I’m currently learning **React**
-
-- 💬 Ask me about **JavaScript**
-
-- 📫 How to reach me **prathamhanda10@gmail.com**
-
-- ⚡ Fun fact **I'm a Melomaniac..**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/prathamboii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prathamboii" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/prathamh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prathamh" height="30" width="40" /></a>
-<a href="https://instagram.com/prathambutnotreally" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prathambutnotreally" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/prathamhanda10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="prathamhanda10" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/prathamh/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="prathamh/profile" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://linkedin.com/in/prathamh" target="_blank" title="Connect with me on LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Pratham%20Handa-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:prathamhanda10@gmail.com" target="_blank" title="Shoot me an email">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/prathamhanda/" target="_blank" title="Check out my LeetCode profile">
+    <img src="https://img.shields.io/badge/LeetCode-Pratham-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/prathamh/" target="_blank" title="Visit my GFG profile">
+    <img src="https://img.shields.io/badge/GFG-Pratham%20Handa-14a800?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
+  <a href="https://codolio.com/profile/prathamhanda" target="_blank" title="My Codolio portfolio">
+    <img src="https://img.shields.io/badge/Codolio-Portfolio-6A67FE?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prathamhanda&show_icons=true&locale=en&layout=compact" alt="prathamhanda" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prathamhanda&show_icons=true&locale=en" alt="prathamhanda" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prathamhanda&" alt="prathamhanda" /></p>
+### 👨‍💻 About Me
+
+- 🔍 Currently exploring **AI in healthcare** and **student-centric platforms**
+- 🛠️ Building:  
+  &nbsp;&nbsp;&nbsp;• [**RoomsonRent**](https://github.com/prathamhanda/roomsonrent) – PG booking service for students  
+  &nbsp;&nbsp;&nbsp;• [**BreastCancer-Predictor**](https://github.com/prathamhanda/BreastCancer-Predictor) – AI-powered diagnosis for breast cancer  
+  &nbsp;&nbsp;&nbsp;• [**BrainTumor-Detector**](https://github.com/prathamhanda/BrainTumor-Detector) – Image-based brain tumor classification and segmentation  
+  &nbsp;&nbsp;&nbsp;• [**TextConverter**](https://github.com/prathamhanda/TextConverter) – A UPI-integrated text transformation tool
+- 🧠 Learning: **React**, **Node.js**, and everything in between
+- 🎧 Fun fact: I code better with The Weeknd playing in the background
+
+---
+
+### 🧰 Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,html,css,cpp,python,mysql,firebase,bootstrap,bash" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prathamhanda&show_icons=true&theme=tokyonight" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathamhanda&layout=compact&theme=tokyonight" width="45%" />
+</p>
+
+---
+
+### 📌 Pinned Projects
+
+| Project | Description | Stack |
+|--------|-------------|-------|
+| [**RoomsonRent**](https://github.com/prathamhanda/roomsonrent) | PG booking platform for students across Delhi-NCR | `JavaScript`, `Node.js` |
+| [**BreastCancer-Predictor**](https://github.com/prathamhanda/BreastCancer-Predictor) | Classifies breast masses as benign/malignant using ML | `Python`, `AI` |
+| [**BrainTumor-Detector**](https://github.com/prathamhanda/BrainTumor-Detector) | Detects and segments brain tumors in medical images | `Python`, `Deep Learning` |
+| [**TextConverter**](https://github.com/prathamhanda/TextConverter) | Converts text, sends emails, and supports UPI | `JavaScript` |
+
+---
+
+### ⚡ Let's Collaborate
+I'm always open to brainstorming, collaborations, or just a geeky chat. Drop a line and let’s connect!
+
+---
 
