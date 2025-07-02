@@ -1,8 +1,11 @@
 <h1 align="center">Hi, I'm Pratham Handa 👋</h1>
 <h3 align="center">A curious builder blending code, creativity, and caffeine ☕</h3>
 
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=prathamhanda&style=flat-square&color=blue" alt="Profile views" />
+</p>
 
+---
 
 <h3 align="center">🌐 Connect With Me</h3>
 
