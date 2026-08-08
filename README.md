@@ -6,7 +6,7 @@ Hi, I'm Pratham Handa 👋</h1>
   </div>
 
 <div align="center">
-  <h3>3rd Year CSE Student @ TIET | Web Solutions Engineer Intern @ <img src="https://www.google.com/logos/doodles/2020/thank-you-packaging-shipping-and-delivery-workers-6753651837108760.2-2xa.gif" height="45px" style="vertical-align:middle" alt="Google" /></h3>
+  <h3>Final Year CSE Student @ TIET | Web Solutions Engineer Intern @ <img src="https://www.google.com/logos/doodles/2020/thank-you-packaging-shipping-and-delivery-workers-6753651837108760.2-2xa.gif" height="45px" style="vertical-align:middle" alt="Google" /></h3>
   
   <p>
     <a href="https://pratham.codes" target="_blank">
@@ -32,7 +32,7 @@ Hi, I'm Pratham Handa 👋</h1>
   - [**AI-RoadIntelligence**](https://github.com/prathamhanda/AI-RoadIntelligence): AI traffic management using YOLOv8 & SUMO
   - [**Brain-Tumor-Segmentation**](https://github.com/prathamhanda/BrainTumor-Detector): Pediatric tumor analysis using BraTS dataset
   - [**RoomsonRent**](https://github.com/prathamhanda/roomsonrent): PG booking platform for students
-- ⚡ **Fun Fact:** I code best with The Weeknd playing in the background
+- ⚡ **Fun Fact:** I code best with Karan Aujla playing in the background
 ---
 
 ### 🧰 Tech Stack
